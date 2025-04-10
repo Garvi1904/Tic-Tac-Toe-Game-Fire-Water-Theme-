@@ -39,6 +39,17 @@ Battle it out: **Fire** or **Water** – who will win?
 
 ---
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/12d1532d-2a0c-4a92-989e-569930e0640d)
+
+![image](https://github.com/user-attachments/assets/c3401233-683a-4ab9-a144-240b11f65c0a)
+
+![image](https://github.com/user-attachments/assets/9c2ffa4a-62c6-4c63-8fed-82cd4ad5291f)
+
+
+---
+
 ## 📦 Requirements
 
 - Python 3.x
